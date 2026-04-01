@@ -12,3 +12,5 @@ Este es mi primer repositorio de práctica para aprender Git y GitHub.
 ## Autor
 
 Rene
+
+Este cambio fue hecho directamente en GitHub.
