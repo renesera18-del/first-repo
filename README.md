@@ -1,6 +1,14 @@
 # Git Practice
 
-Estoy aprendiendo Git y GitHub.
-Este es mi segundo cambio en Git.
+Este es mi primer repositorio de práctica para aprender Git y GitHub.
 
-Ahora estoy practicando mi tercer cambio en Git.
+## Lo que he practicado
+
+- Crear un repositorio local con Git
+- Hacer commits
+- Conectar mi repo con GitHub
+- Subir cambios con git push
+
+## Autor
+
+Rene
